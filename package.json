@@ -1,0 +1,19 @@
+{
+  "name": "dates-utils",
+  "version": "1.0.0",
+  "description": "util function package for dates for use with wix/react-native-calendars",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RallyClothing/dates-utils.git"
+  },
+  "author": "Carmelle Millar and Catherine Lai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RallyClothing/dates-utils/issues"
+  },
+  "homepage": "https://github.com/RallyClothing/dates-utils#readme"
+}
