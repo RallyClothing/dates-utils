@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RallyClothing/dates-utils/issues"
   },
-  "homepage": "https://github.com/RallyClothing/dates-utils#readme"
+  "homepage": "https://github.com/RallyClothing/dates-utils#readme",
+  "dependencies": {
+    "lodash.isempty": "^4.4.0"
+  }
 }
