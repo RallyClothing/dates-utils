@@ -8,6 +8,7 @@ import isEmpty from "lodash.isempty";
   returns: ["2020-06-21",  "2020-06-22",  ...]
 
   Inspired by: https://stackoverflow.com/questions/4413590/javascript-get-array-of-dates-between-2-dates
+  Author: Catherine Lai
 */
 const getDaysArray = ({ start, end, inclusive = true }) => {
   const arr = [];
